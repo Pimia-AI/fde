@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.env.*
+*.sqlite3
+review/
+server/
